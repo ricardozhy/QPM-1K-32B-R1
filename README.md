@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/ricardozhy/QPM-1K-32B-R1/blob/main/%E5%94%90%E8%AF%97logo.png?raw=true" width="20%" />
+</div>
+
 # QPM-1K-32B-R1
 
 <div align="center">
